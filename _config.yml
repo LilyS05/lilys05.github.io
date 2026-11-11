@@ -24,7 +24,7 @@ description              : >
 # Your web address. Your repo must be named yourusername.github.io.
 # Replace "vt-evia" with your GitHub username, and set baseurl to "" (empty quotes).
 url                      : "https://lilys05.github.io"            # -> "https://yourusername.github.io"
-baseurl                  : "/cmst4714-portfolio-template"         # -> ""
+baseurl                  : ""         # -> ""
 repository               : "lilys05/lilys05.github.io"  # -> "yourusername/yourusername.github.io"
 title                    : "Lily Sandusky's Portfolio" # the name shown in the maroon header bar and browser tab
 author: 
