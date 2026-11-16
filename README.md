@@ -5,6 +5,8 @@ of AI** at Virginia Tech. By the end of the semester, this site will document yo
 intellectual work, your professional presence, and your developing argument about what
 human communicators bring to an AI-shaped world.
 
+Hi!
+
 ---
 
 ## Before you do anything else: read this
