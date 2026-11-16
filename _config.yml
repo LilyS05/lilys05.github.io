@@ -28,7 +28,7 @@ baseurl                  : ""         # -> ""
 repository               : "lilys05/lilys05.github.io"  # -> "yourusername/yourusername.github.io"
 title                    : "Lily Sandusky's Portfolio" # the name shown in the maroon header bar and browser tab
 author: 
-  name     : "Robin Hokie"
+  name     : "Lily Sandusky "
   avatar   : "//bio-photo.jpg"
   bio      : "Senior, School of Communication, Virginia Tech. Interested in how human communicators build meaning in AI-mediated environments."
   location : "Blacksburg, VA"
